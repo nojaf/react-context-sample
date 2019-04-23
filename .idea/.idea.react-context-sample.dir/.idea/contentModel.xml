@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Temp\react-context-sample" t="IncludeFlat">
+      <e p="node_modules\@babel\core" t="IncludeRecursive" />
+      <e p="node_modules\fable-compiler" t="IncludeRecursive" />
+      <e p="node_modules\fable-loader" t="IncludeRecursive" />
+      <e p="node_modules\webpack" t="IncludeRecursive" />
+      <e p="node_modules\webpack-cli" t="IncludeRecursive" />
+      <e p="node_modules\webpack-dev-server" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\SIDFLOV\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\SIDFLOV\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\SIDFLOV\.Rider2019.1\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\SIDFLOV\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SIDFLOV\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>
